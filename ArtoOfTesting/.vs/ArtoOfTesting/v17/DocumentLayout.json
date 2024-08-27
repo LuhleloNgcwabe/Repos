@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79AD9346-8B0D-4F21-B288-9E20307F01C1}|ArtoOfTesting\\ArtoOfTesting.csproj|c:\\users\\xy58755\\source\\repos\\artooftesting\\artooftesting\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AD9346-8B0D-4F21-B288-9E20307F01C1}|ArtoOfTesting\\ArtoOfTesting.csproj|solutionrelative:artooftesting\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AD9346-8B0D-4F21-B288-9E20307F01C1}|ArtoOfTesting\\ArtoOfTesting.csproj|C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\artooftesting\\artooftesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79AD9346-8B0D-4F21-B288-9E20307F01C1}|ArtoOfTesting\\ArtoOfTesting.csproj|solutionrelative:artooftesting\\artooftesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AD9346-8B0D-4F21-B288-9E20307F01C1}|ArtoOfTesting\\ArtoOfTesting.csproj|C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\artooftesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AD9346-8B0D-4F21-B288-9E20307F01C1}|ArtoOfTesting\\ArtoOfTesting.csproj|solutionrelative:artooftesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtoOfTesting.csproj",
+              "DocumentMoniker": "C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\ArtoOfTesting\\ArtoOfTesting.csproj",
+              "RelativeDocumentMoniker": "ArtoOfTesting\\ArtoOfTesting.csproj",
+              "ToolTip": "C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\ArtoOfTesting\\ArtoOfTesting.csproj",
+              "RelativeToolTip": "ArtoOfTesting\\ArtoOfTesting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T20:59:34.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\ArtoOfTesting\\TestBase.cs",
+              "RelativeDocumentMoniker": "ArtoOfTesting\\TestBase.cs",
+              "ToolTip": "C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\ArtoOfTesting\\TestBase.cs",
+              "RelativeToolTip": "ArtoOfTesting\\TestBase.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:00:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\ArtoOfTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ArtoOfTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Xy58755\\source\\repos\\ArtoOfTesting\\ArtoOfTesting\\UnitTest1.cs",
+              "RelativeToolTip": "ArtoOfTesting\\UnitTest1.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:22:50.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
