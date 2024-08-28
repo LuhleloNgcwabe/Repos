@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.lck
+*.ppt
+/Unified Functional Testing/Data Sheets/SingleDeath datasheet.xlsx
+/SAT/VisualStudio/SATKeywordEditor/SATKeywordEditor/bin
+.vs/
+/SAT/SAT_EOH/SAT_EOH/bin/Debug/Results.txt
+/SAT/SAT_EOH_V8/Solution_V8/SaT_EoH_KeyWord_Behavioural_Driven_V8/*.log
+bin/
+obj/
+packages/
+*.xls
+*.csv
+/SAT/SAT_EOH/SAT_EOH/Testcases/IMED/Quote and Application/Quote/*.xls
+*.cache
+*SnapShots*
+/EBQ_Solution/EBQ solution/Res*
+/EBQ/TestData/*.xlsx
+/EBQ/*.xlsx
